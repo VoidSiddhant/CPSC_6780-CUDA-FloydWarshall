@@ -1,13 +1,7 @@
-To access the environment for this application:
+A computational comparision between serialized code (CPU) against parallel code (CUDA).
+Floyd Warshall algorithm is implemented using both serialzed approach and parallel approach.
 
-ssh login.palmetto.clemson.edu
-
-Or using create a Palmetto Interactive Session on OnDemand at:
-
-https://openod.palmetto.clemson.edu/pun/sys/dashboard/batch_connect/sessions 
-
-
-
+Required : CUDA (nvcc) and g++
 
 Before compiling, if cuda was needed to load:
 
